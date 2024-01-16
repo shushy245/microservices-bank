@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "username": "Obama",
+      "balance": 100.0
+    },
+    {
+      "username": "TheRock",
+      "balance": 50.0
+    },
+    {
+      "username": "Bibi",
+      "balance": 75.0
+    },
+    {
+      "username": "Margol",
+      "balance": 120.0
+    },
+    {
+      "username": "Robert",
+      "balance": 90.0
+    }
+  ]
+}
